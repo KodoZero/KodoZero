@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.discordapp.net/attachments/1202709551976022017/1203137211734958131/code.zzz_Cinematic_Create_a_minimalist_yet_impactful_logo_that__13c4582f-7f02-4f57-9eca-c940853c9680.png?ex=6682a318&is=66815198&hm=eaddaa49ac4015f6f70fce7b1282df81f7d15be39e0080a34a2c2322fc48d22f&=&format=webp&quality=lossless&width=1321&height=740"  />
+  
 </div>
 
 ###
