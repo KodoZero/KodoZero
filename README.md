@@ -1,9 +1,9 @@
 # Hello, I'm Clifton Saintfleur
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction -]
+[Brief Introduction]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm an undergraduate at WGU studying Cybersecurity and Information Assurance, focusing on digital forensics, incident response, and security operations. I'm passionate about investigating cyber incidents and applying my skills in real-world SOC environments..
 
 ## Objective
 [Provide Objective - ]]
