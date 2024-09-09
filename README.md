@@ -3,7 +3,7 @@
 
 [Brief Introduction]
 
-I'm an undergraduate at WGU studying Cybersecurity and Information Assurance, focusing on digital forensics, incident response, and security operations. I'm passionate about investigating cyber incidents and applying my skills in real-world SOC environments..
+I'm an undergraduate at WGU studying Cybersecurity and Information Assurance, focusing on digital forensics, incident response, and security operations. I'm passionate about investigating cyber incidents and applying my skills in real-world SOC environments.
 
 ## Objective
 [Provide Objective - ]]
