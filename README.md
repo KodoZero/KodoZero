@@ -1,45 +1,21 @@
-# Clifton Saintfleur  
+# Clifton Saintfleur — Web Developer in training 🚀
 
-> Cybersecurity Student · Blue & Red Team Enthusiast
+I’m Clifton (KodoZero). Current: Coding Practioner Next: building fast, modern websites for small businesses and publishing security projects.  
+**Focus right now:** web development → client websites → portfolio → real clients.
 
----
+## Right now
+- Learning: HTML, CSS, JavaScript, React.
+- Committing daily to GitHub.
+- Goal: be able to build and launch client-ready websites in 24–48 hours.
 
-## About Me  
-I study **Cybersecurity & Information Assurance at WGU**.  
-This profile serves as my notebook — a record of scripts, experiments, and projects that demonstrate real understanding of cybersecurity.  
+## Current projects
+- `business-site-v1` — Week 1: simple 3-page static site (HTML/CSS).
+- More projects coming weekly.
 
-I focus on knowing the **why** behind every tool, attack, and defense.  
-The goal is not just to use tools, but to understand how they work and why they matter.  
-
----
-
-## Project Axis  
-This journey is organized into four axes, each representing a core area of cybersecurity:  
-
-- **Project Axis: Foundations**  
-  Linux, Networking, Cryptography — building the core skills to operate confidently in any environment.  
-
-- **Project Axis: Defensive**  
-  Firewalls, Intrusion Detection, Log Analysis — learning how to protect systems and detect threats.  
-
-- **Project Axis: Offensive**  
-  Exploitation, Password Cracking, Reverse Engineering — understanding attacks from a hacker’s perspective.  
-
-- **Project Axis: Showcase**  
-  Capture the Flag writeups, Red vs. Blue simulations, Personal Security Wiki — applying knowledge in integrated projects.  
-
-Each axis will include scripts, notes, configurations, and reflections on what I've learned.  
+## How to follow progress
+- I commit daily. Check my repos and commit history to see real progress.
+- Want to give feedback or hire me? Email: kodozero.it@gmail.com
 
 ---
 
-## Work in Progress  
-- Scripts and configs with detailed comments  
-- Screenshots and output examples as proof  
-- Reflections to highlight learning and growth  
- 
-
----
-
-## Contact  
-- LinkedIn: www.linkedin.com/in/clifton-saintfleur-738259247  
-- Email: KodoZero.it@gmail.com  
+*I’m building in public. No ego, just results.*
